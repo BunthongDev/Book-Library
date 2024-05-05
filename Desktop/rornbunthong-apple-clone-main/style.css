@@ -1,0 +1,6 @@
+/* homepage-section collection-module */
+.homepage-section collection-module{
+    background-color: var(--gutter-color);
+    grid-gap: 5px;
+
+}
